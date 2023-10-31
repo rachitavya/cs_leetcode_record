@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+.student-table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+.student-table th, .student-table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+.student-table th {
+    background-color: #f0f0f0;
+    font-weight: bold;
+}
+
+.student-table a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.student-table a:hover {
+    text-decoration: underline;
+    color: #0056b3;
+}
